@@ -11,6 +11,7 @@ namespace WebApplication2.Controllers
         public ActionResult Index()
         {
             //哈哈哈第一步
+
             return View();
         }
 
